@@ -1,3 +1,29 @@
+# PortFolio App    
+    
+---
+
+<!-- <img src="ss.png"/>   -->
+
+<br/>
+
+I used React, Sass, Sanity, Framer Motion to build my PortFolio.
+
+
+<br/>
+
+### Author Links  
+
+👋 Hello,I am Shadman - Web developer
+
+🚀 Follow me:  
+
+
+  - [Github](https://github.com/sakibshadman1)
+  - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-414b25211)
+  - [Facebook](https://www.facebook.com/shadman.sakibtanmoy)
+  
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
