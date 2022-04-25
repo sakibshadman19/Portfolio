@@ -1,10 +1,14 @@
 # PortFolio App    
     
 ---
-
-<!-- <img src="ss.png"/>   -->
-
 <br/>
+
+
+<img src="shadman.png"/>  
+<br/>
+<br/>
+
+
 
 I used React, Sass, Sanity, Framer Motion to build my PortFolio.
 
