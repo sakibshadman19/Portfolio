@@ -3,7 +3,7 @@
 ---
 <br/>
 
-Live Link - https://shadman-sakib.netlify.app/
+<!-- Live Link - https://shadman-sakib.netlify.app/ -->
 
 <img src="shadman.png"/>  
 <br/>
