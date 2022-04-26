@@ -9,7 +9,7 @@
 
 
 
-I used React, Sass, Sanity, Framer Motion to build my PortFolio.
+I used React, Sass, Sanity, Framer Motion to build my PortFolio. yes
 
 
 <br/>
