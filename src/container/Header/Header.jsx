@@ -35,7 +35,7 @@ const Header = () => {
 
 
 
-          <a href="https://drive.google.com/file/d/1wskg2uP4_cOUQ6Efsu7fMqHuvXb490Tm/view" className="start3" target="_blank" rel='noreferrer' >Download CV</a>
+          <a href="https://drive.google.com/file/d/1JaNihiazt4CEj-UwkUaETDGwGjzHBR1H/view" className="start3" target="_blank" rel='noreferrer' >Download CV</a>
 
 
 
